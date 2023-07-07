@@ -10,7 +10,7 @@
 	<body class="h-full w-full flex flex-col justify-center items-center bg-[radial-gradient(ellipse_at_bottom_left,_var(--tw-gradient-stops))] from-gray-700 via-gray-900 to-black">
 		<div class="container h-full w-full flex justify-center items-center">
 
-      <form class="w-1/3">
+      <form class="w-1/3" action="/api/survey" method="POST">
         <div class="mb-6">
           <label for="firstname" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">First Name</label>
           <input type="text" id="firstname" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-violet-500 focus:border-violet-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-violet-500 dark:focus:border-violet-500" placeholder="John" required>
@@ -49,7 +49,7 @@
 			<p class="uppercase text-sm font-thin tracking-widest">Kevin Bourgitteau</p>
 		</footer>
 
-		<script type="module" src="/main.js"></script>
+		<script type="module" src="./js/main.js"></script>
 	</body>
 </html>
 
