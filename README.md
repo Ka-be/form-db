@@ -20,12 +20,12 @@ Création d'un formulaire connecté à une base de donnée sous MongoDB
 
 **Server:**
 ![Node](https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white)
 
 **Other:**
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?&logo=vite&logoColor=FFD62E)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white)
 
 ---
 
